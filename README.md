@@ -1,8 +1,3 @@
-Here’s a clean and professional **`README.md`** for your Streamlit-based **ResumeRadar** ATS analyzer project:
-
----
-
-```markdown
 # 📄 ResumeRadar – Intelligent ATS Resume Analyzer
 
 **ResumeRadar** is an AI-powered web application that evaluates resumes against job descriptions using **Google Gemini LLMs**. It provides quick resume scans, tailored ATS optimization suggestions, and lets users ask custom questions about their resume.
